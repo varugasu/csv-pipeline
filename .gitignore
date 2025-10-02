@@ -1,0 +1,6 @@
+.python-version
+lake/**/*.parquet
+lake/**/*.csv
+target
+.DS_Store
+*.duckdb
